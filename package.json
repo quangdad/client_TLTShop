@@ -60,5 +60,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://shop-1l24mid0f-quangdad.vercel.app/"
+  "proxy": "http://localhost:4000/"
 }
